@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MyUnityProject\\FlappyTerminator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A30142-5F9C-C69C-7FB2-E4CD900C8734}|Assembly-CSharp.csproj|D:\\MyUnityProject\\FlappyTerminator\\assets\\scripts\\bird\\bird\\jumpstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A30142-5F9C-C69C-7FB2-E4CD900C8734}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bird\\bird\\jumpstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A30142-5F9C-C69C-7FB2-E4CD900C8734}|Assembly-CSharp.csproj|d:\\myunityproject\\flappyterminator\\assets\\scripts\\bird\\bird\\birdcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A30142-5F9C-C69C-7FB2-E4CD900C8734}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bird\\bird\\birdcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A30142-5F9C-C69C-7FB2-E4CD900C8734}|Assembly-CSharp.csproj|D:\\MyUnityProject\\FlappyTerminator\\assets\\scripts\\bird\\bird\\idlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A30142-5F9C-C69C-7FB2-E4CD900C8734}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bird\\bird\\idlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A30142-5F9C-C69C-7FB2-E4CD900C8734}|Assembly-CSharp.csproj|D:\\MyUnityProject\\FlappyTerminator\\assets\\scripts\\bird\\bird\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A30142-5F9C-C69C-7FB2-E4CD900C8734}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bird\\bird\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A30142-5F9C-C69C-7FB2-E4CD900C8734}|Assembly-CSharp.csproj|D:\\MyUnityProject\\FlappyTerminator\\assets\\scripts\\bird\\bird\\statemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A30142-5F9C-C69C-7FB2-E4CD900C8734}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bird\\bird\\statemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A30142-5F9C-C69C-7FB2-E4CD900C8734}|Assembly-CSharp.csproj|D:\\MyUnityProject\\FlappyTerminator\\assets\\scripts\\bullet\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A30142-5F9C-C69C-7FB2-E4CD900C8734}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A30142-5F9C-C69C-7FB2-E4CD900C8734}|Assembly-CSharp.csproj|D:\\MyUnityProject\\FlappyTerminator\\assets\\scripts\\bullet\\bulletbird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A30142-5F9C-C69C-7FB2-E4CD900C8734}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet\\bulletbird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A30142-5F9C-C69C-7FB2-E4CD900C8734}|Assembly-CSharp.csproj|D:\\MyUnityProject\\FlappyTerminator\\assets\\scripts\\bullet\\bulletenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A30142-5F9C-C69C-7FB2-E4CD900C8734}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet\\bulletenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A30142-5F9C-C69C-7FB2-E4CD900C8734}|Assembly-CSharp.csproj|D:\\MyUnityProject\\FlappyTerminator\\assets\\scripts\\bird\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A30142-5F9C-C69C-7FB2-E4CD900C8734}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bird\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A30142-5F9C-C69C-7FB2-E4CD900C8734}|Assembly-CSharp.csproj|D:\\MyUnityProject\\FlappyTerminator\\assets\\scripts\\bird\\birdmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A30142-5F9C-C69C-7FB2-E4CD900C8734}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bird\\birdmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A30142-5F9C-C69C-7FB2-E4CD900C8734}|Assembly-CSharp.csproj|D:\\MyUnityProject\\FlappyTerminator\\assets\\scripts\\factory\\birdbulletfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A30142-5F9C-C69C-7FB2-E4CD900C8734}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\factory\\birdbulletfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A30142-5F9C-C69C-7FB2-E4CD900C8734}|Assembly-CSharp.csproj|D:\\MyUnityProject\\FlappyTerminator\\assets\\scripts\\bird\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A30142-5F9C-C69C-7FB2-E4CD900C8734}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bird\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A30142-5F9C-C69C-7FB2-E4CD900C8734}|Assembly-CSharp.csproj|D:\\MyUnityProject\\FlappyTerminator\\assets\\scripts\\factory\\enemyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A30142-5F9C-C69C-7FB2-E4CD900C8734}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\factory\\enemyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A30142-5F9C-C69C-7FB2-E4CD900C8734}|Assembly-CSharp.csproj|D:\\MyUnityProject\\FlappyTerminator\\assets\\scripts\\screen\\startscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A30142-5F9C-C69C-7FB2-E4CD900C8734}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\screen\\startscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BulletEnemy.cs",
+              "DocumentMoniker": "D:\\MyUnityProject\\FlappyTerminator\\Assets\\Scripts\\Bullet\\BulletEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet\\BulletEnemy.cs",
+              "ToolTip": "D:\\MyUnityProject\\FlappyTerminator\\Assets\\Scripts\\Bullet\\BulletEnemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bullet\\BulletEnemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:12:32.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BulletBird.cs",
+              "DocumentMoniker": "D:\\MyUnityProject\\FlappyTerminator\\Assets\\Scripts\\Bullet\\BulletBird.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet\\BulletBird.cs",
+              "ToolTip": "D:\\MyUnityProject\\FlappyTerminator\\Assets\\Scripts\\Bullet\\BulletBird.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bullet\\BulletBird.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T04:04:32.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "D:\\MyUnityProject\\FlappyTerminator\\Assets\\Scripts\\Bullet\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet\\Bullet.cs",
+              "ToolTip": "D:\\MyUnityProject\\FlappyTerminator\\Assets\\Scripts\\Bullet\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bullet\\Bullet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T04:04:29.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "D:\\MyUnityProject\\FlappyTerminator\\Assets\\Scripts\\Bird\\Weapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bird\\Weapon.cs",
+              "ToolTip": "D:\\MyUnityProject\\FlappyTerminator\\Assets\\Scripts\\Bird\\Weapon.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bird\\Weapon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T03:57:54.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BirdBulletFactory.cs",
+              "DocumentMoniker": "D:\\MyUnityProject\\FlappyTerminator\\Assets\\Scripts\\Factory\\BirdBulletFactory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Factory\\BirdBulletFactory.cs",
+              "ToolTip": "D:\\MyUnityProject\\FlappyTerminator\\Assets\\Scripts\\Factory\\BirdBulletFactory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Factory\\BirdBulletFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T02:12:44.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EnemyFactory.cs",
+              "DocumentMoniker": "D:\\MyUnityProject\\FlappyTerminator\\Assets\\Scripts\\Factory\\EnemyFactory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Factory\\EnemyFactory.cs",
+              "ToolTip": "D:\\MyUnityProject\\FlappyTerminator\\Assets\\Scripts\\Factory\\EnemyFactory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Factory\\EnemyFactory.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwDEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T02:12:24.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "D:\\MyUnityProject\\FlappyTerminator\\Assets\\Scripts\\Bird\\Bird.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bird\\Bird.cs",
+              "ToolTip": "D:\\MyUnityProject\\FlappyTerminator\\Assets\\Scripts\\Bird\\Bird.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bird\\Bird.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:33:27.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BirdMover.cs",
+              "DocumentMoniker": "D:\\MyUnityProject\\FlappyTerminator\\Assets\\Scripts\\Bird\\BirdMover.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bird\\BirdMover.cs",
+              "ToolTip": "D:\\MyUnityProject\\FlappyTerminator\\Assets\\Scripts\\Bird\\BirdMover.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bird\\BirdMover.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T03:07:13.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BirdController.cs",
+              "DocumentMoniker": "D:\\MyUnityProject\\FlappyTerminator\\Assets\\Scripts\\Bird\\Bird\\BirdController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bird\\Bird\\BirdController.cs",
+              "ToolTip": "D:\\MyUnityProject\\FlappyTerminator\\Assets\\Scripts\\Bird\\Bird\\BirdController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bird\\Bird\\BirdController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T03:09:15.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JumpState.cs",
+              "DocumentMoniker": "D:\\MyUnityProject\\FlappyTerminator\\Assets\\Scripts\\Bird\\Bird\\JumpState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bird\\Bird\\JumpState.cs",
+              "ToolTip": "D:\\MyUnityProject\\FlappyTerminator\\Assets\\Scripts\\Bird\\Bird\\JumpState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bird\\Bird\\JumpState.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwCMAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T03:04:21.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IdleState.cs",
+              "DocumentMoniker": "D:\\MyUnityProject\\FlappyTerminator\\Assets\\Scripts\\Bird\\Bird\\IdleState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bird\\Bird\\IdleState.cs",
+              "ToolTip": "D:\\MyUnityProject\\FlappyTerminator\\Assets\\Scripts\\Bird\\Bird\\IdleState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bird\\Bird\\IdleState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:55:58.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StateMachine.cs",
+              "DocumentMoniker": "D:\\MyUnityProject\\FlappyTerminator\\Assets\\Scripts\\Bird\\Bird\\StateMachine.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bird\\Bird\\StateMachine.cs",
+              "ToolTip": "D:\\MyUnityProject\\FlappyTerminator\\Assets\\Scripts\\Bird\\Bird\\StateMachine.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bird\\Bird\\StateMachine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T02:58:45.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "State.cs",
+              "DocumentMoniker": "D:\\MyUnityProject\\FlappyTerminator\\Assets\\Scripts\\Bird\\Bird\\State.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bird\\Bird\\State.cs",
+              "ToolTip": "D:\\MyUnityProject\\FlappyTerminator\\Assets\\Scripts\\Bird\\Bird\\State.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bird\\Bird\\State.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T02:55:54.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StartScreen.cs",
+              "DocumentMoniker": "D:\\MyUnityProject\\FlappyTerminator\\Assets\\Scripts\\Screen\\StartScreen.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Screen\\StartScreen.cs",
+              "ToolTip": "D:\\MyUnityProject\\FlappyTerminator\\Assets\\Scripts\\Screen\\StartScreen.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Screen\\StartScreen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T05:10:36.771Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

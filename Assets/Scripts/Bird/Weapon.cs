@@ -1,10 +1,19 @@
 using UnityEngine;
 
+[RequireComponent(typeof(InputBird))]
+[RequireComponent(typeof(AudioSource))]
 public class Weapon : MonoBehaviour
 {
-    [SerializeField] private Transform _firePoint;
-    [SerializeField] private Bullet _bullet;
-    [SerializeField] private InputBird _input;
+    [SerializeField] private BirdBulletFactory _bulletFactory;
+
+    private InputBird _input;
+    private AudioSource _audioSource;
+
+    private void Awake()
+    {
+        _input = GetComponent<InputBird>();
+        _audioSource = GetComponent<AudioSource>();
+    }
 
     private void OnEnable()
     {
@@ -18,6 +27,8 @@ public class Weapon : MonoBehaviour
 
     private void OnShootAction()
     {
-        Instantiate(_bullet, _firePoint.position, _firePoint.rotation);
+        _bulletFactory.GetPrefab();
+
+        _audioSource.Play();
     }
 }

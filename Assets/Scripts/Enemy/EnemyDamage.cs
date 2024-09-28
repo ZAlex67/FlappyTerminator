@@ -9,7 +9,7 @@ public class EnemyDamage : MonoBehaviour
 
     private Coroutine _coroutine;
 
-    private void Start()
+    public void OnEnable()
     {
         if (_coroutine != null)
             StopCoroutine(_coroutine);
@@ -17,20 +17,17 @@ public class EnemyDamage : MonoBehaviour
         _coroutine = StartCoroutine(BulletSpawn());
     }
 
-    private IEnumerator BulletSpawn()
+    public IEnumerator BulletSpawn()
     {
         var wait = new WaitForSeconds(_delay);
-        int count = 10;
 
         yield return wait;
 
-        for (int i = 0; i < count; i++)
+        while (true)
         {
             Instantiate(_bullet, _firePoint.position, _firePoint.rotation);
 
             yield return wait;
         }
-
-        yield return null;
     }
 }
